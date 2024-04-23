@@ -1,0 +1,2 @@
+# democrito
+MBA Full Stack
